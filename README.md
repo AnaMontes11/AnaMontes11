@@ -3,7 +3,7 @@
 I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code.
 
 ### 🔭 2022 Goal
-learning code to improve my skills and communicate with my developers colleagues.
+Learning code to improve my skills and better communicate with my developers colleagues.
 
 ### 🔧 Currently learning
 
