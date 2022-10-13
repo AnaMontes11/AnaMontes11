@@ -1,6 +1,9 @@
 ### 👋 Hi! I'm Ana Montes
 
-I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code. Previously I worked creating from scratch Orange Bank. I’m a big team player and I believe that great results can only come from great teamwork.
+I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code.
+
+### 🔭 2022 Goal
+learning code to improve my skills and communicate with my developers colleagues.
 
 ### 🔧 Currently learning
 
