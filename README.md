@@ -15,4 +15,4 @@ I'm a Spanish designer at @telefónica working on Mística Design System who rec
   </p>
 
 
-  Made with love and 🍕
+  Made with 🍕
