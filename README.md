@@ -1,9 +1,6 @@
-### 👋 Hi!
+### 👋 Hi there!
 
-I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code.
-
-### 🔭 2022 Goal
-Learning code to improve my skills and better communicate with my developers colleagues.
+I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code to improve my skills and better communicate with my developers colleagues.
 
 ### 🔧 Currently learning
 
