@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Ana Montes
+### 👋 Hi!
 
 I'm a Spanish designer at @telefónica working on Mística Design System who recently started learning to code.
 
@@ -15,6 +15,3 @@ Learning code to improve my skills and better communicate with my developers col
     <a target="_blank" href="https://www.linkedin.com/in/analopezmontes/">Linkedin</a> •
     <a target="_blank" href="https://twitter.com/anusk11">Twitter</a>
   </p>
-
-
-  Made with 🍕
